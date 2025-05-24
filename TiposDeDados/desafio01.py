@@ -6,4 +6,4 @@
 
 numero = int(input("Digite um número inteiro:"))
 numero *= numero
-print(numero)
+print(f'O quadrado do número digitado é: {numero}')

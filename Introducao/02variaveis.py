@@ -17,6 +17,8 @@ a , b = b, a
 
 print(a, b)
 
+# -----
+
 nome = "Renata"
 idade = 25
 sexo = 'M'

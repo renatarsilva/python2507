@@ -1,6 +1,6 @@
 # ANÁLISE DE STRINGS (str)
 
-n = '5'
+n = 'LO'
 
 print(n.isnumeric())   # Númérico
 print(n.isalpha())     # Alfabético
