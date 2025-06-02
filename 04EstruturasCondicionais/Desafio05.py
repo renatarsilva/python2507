@@ -15,6 +15,6 @@ velocidade = random.randint(20, 210)
 multa = (velocidade - 80) *7
 
 if velocidade >= 80:
-    print(f"Você ultrapassou o limite de velocidade, sua multa é de R${multa},00")
+    print(f"Vgit add .ocê ultrapassou o limite de velocidade, sua multa é de R${multa},00")
 else:
     print("Velocidade permitida")    
