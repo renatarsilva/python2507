@@ -3,7 +3,7 @@
 Construir um cardápio utilizando colunas e autopreenchimento.
 """
 
-print("\033[47m \033[35m",  "MENU".center(32,"-"), "\033[")
+print("\033[35m",  "MENU".center(32,"-"), "\033[")
 
 print("Burguer".ljust(22,'-'), "R$7,90 🍔")
 print('X-burguer'.ljust(22,'-'), "R$8,30 🍔")
