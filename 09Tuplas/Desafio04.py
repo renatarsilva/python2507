@@ -9,4 +9,4 @@ for i, item in enumerate(produtos):
     if i%2 ==0:
         print(f"{item}".ljust(20, '.'), end ='')
     else:
-        print(f"R$ {item:,.2f}".replace('.', ',').rjust(10, '.'))s
+        print(f"R$ {item:,.2f}".replace('.', ',').rjust(10, '.'))
